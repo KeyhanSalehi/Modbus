@@ -305,6 +305,7 @@ Byte Count: 02
 Register Value: [Data Bytes]
 CRC: [Calculated Bytes]
 
+```
 ---
 
 ## References
