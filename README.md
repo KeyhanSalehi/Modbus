@@ -296,15 +296,15 @@ Function: 03
 Start Address: 0000
 Quantity: 0001
 CRC: [Calculated Bytes]
+```
 
 **Slave Response (RTU):**
-text
+```text
 Slave Address: 01
 Function: 03
 Byte Count: 02
 Register Value: [Data Bytes]
 CRC: [Calculated Bytes]
-
 ```
 ---
 
